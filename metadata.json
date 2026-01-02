@@ -1,0 +1,5 @@
+{
+  "name": "SM International",
+  "description": "A lightweight, browser-based Point of Sale and Inventory management system designed for small businesses. Features offline data persistence, inventory tracking, and customer sales history.",
+  "requestFramePermissions": []
+}
